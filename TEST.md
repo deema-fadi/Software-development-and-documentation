@@ -25,4 +25,29 @@ _and more recently with desktop publishing software like Aldus PageMaker includi
    [visit ASU link](https://www.asu.edu.jo/en/Pages/default.aspx)  
    ![ROSE](https://cdn.britannica.com/45/5645-050-B9EC0205/head-treasure-flower-disk-flowers-inflorescence-ray.jpg)
    ![flowe](flower.webp)
-`                                                               
+
+   # Code
+   ```  
+      int y
+      int x
+      z=y+x
+     print z;
+   ```
+# Code
+`public class Main { public static void main(String[] args) {System.out.println("Hello World");}}`
+# table
+|Name|Salary
+|-----|-----|
+|Reem|300|
+|Tala|500|
+|Mohammad|700|
+|Diana|200|
+# table list
+
+- [x] Doing assignments
+- [ ] Bring food
+
+
+
+   
+                                                            
